@@ -38,7 +38,7 @@ const handleSubmit = e => {
     
     <form onSubmit={handleSubmit}>
       <label>
-        What do you need to get done?
+        <b>What do you need to get done?</b>
       </label>
       <br />
       <textarea
